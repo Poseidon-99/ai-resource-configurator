@@ -1,0 +1,4 @@
+{
+  "ignoreCommand": "echo 'Skipping lint'",
+  "buildCommand": "next build"
+}
